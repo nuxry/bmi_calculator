@@ -1,3 +1,5 @@
+NB: Project inspired from Dr. Angela Yu's course.
+
 ## Download the apk file from <a href="https://github.com/tahsin-npx/bmi_calculator/releases/download/v1.0.0/Bmi.Calculator.apk">here</a>
 
 ### Some screenshots of the application UI.
